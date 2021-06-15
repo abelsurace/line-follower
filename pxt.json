@@ -1,0 +1,23 @@
+{
+    "name": "line-follower",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-k-bit": "github:mworkfun/pxt-k-bit#e8e1f6540764c5c9939877e8d562ba1e4a93088d",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
